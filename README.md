@@ -4,7 +4,7 @@ A Student that completes this project shows they can:
 
 
 ## Introduction
-
+- [x] Initial commit
 For this project we are starting with your ending project from [Shopping Cart](https://github.com/LambdaSchool/java-shoppingcart.git). We are going to deploy this project to Heroku.
 
  A shopping cart is a very common application so let's look at one. This Java Spring REST API application will provide endpoints for clients to perform the various CRUD operations on data sets contained in the application's data. Access to these endpoints will be secured using OAuth2 Authentication.
